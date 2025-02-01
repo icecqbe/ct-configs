@@ -1,0 +1,85 @@
+
+[general]
+
+	[general.general]
+		background_blur = false
+		chat_emotes = false
+		mastery_helper = false
+		party_commands = false
+
+[hud]
+
+	[hud.hud]
+		reset_bps_after = 10
+		hud_color = "255,29,162,219"
+		ping_display = false
+		bps_for_only_garden = false
+		bps_display = false
+		tps_display = false
+		fps_display = false
+
+[dungeons]
+
+	[dungeons.split]
+		dragon_split = false
+		dragon_timer = true
+		solo_debuff_on_all_splits = false
+		easy_power = 10
+		show_all_dragons_titles = true
+		normal_power = 10
+		paul_buff = false
+		debuff_tracker = false
+		purple_solo_debuff = 0
+
+	[dungeons.hud]
+		show_stone_blessing = false
+		show_power_blessing = true
+		show_wisdom_blessing = false
+		show_blessings = false
+		show_life_blessing = false
+		show_time_blessing = true
+
+	[dungeons.dungeons]
+		bonzo_and_phoenix_announce = true
+		send_message_on_dungeon_death = false
+		highlight_color = "255,255,30,30"
+		invincibility_timer = true
+		announce_melody_progress = false
+		only_send_message_on_pb = false
+		announce_melody_text = "melody"
+		hide_leap_messages = 0
+		announce_melody = false
+		goldor_tick_timer = true
+		leap_announce = false
+		exclude_own_death = false
+		death_message_text = ""
+		terminal_timer = false
+		highlight_in_leap_menu = 0
+		highlight_keys = false
+		necron_timer = true
+		relic_timer = false
+
+[crystal_hollows]
+
+	[crystal_hollows.crystal_hollows]
+		fix_powder_message = false
+		chest_solver = false
+		chest_session = false
+
+[garden]
+
+	[garden.hud]
+		milestone_display_ = false
+		visitors_list = false
+
+	[garden.garden]
+		show_composter_upgrades_as_stack = false
+		show_crop_milestone_as_stack = false
+
+[render]
+
+	[render.render]
+		hide_p5_armorstands = false
+		hide_falling_blocks = false
+		hide_p5_particles = false
+
