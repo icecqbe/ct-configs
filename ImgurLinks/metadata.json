@@ -1,0 +1,7 @@
+{
+    "name": "ImgurLinks",
+    "description": "Stops Imgur links from being blocked on Hypixel. Requires both sender and recipient to have the module to work.",
+    "version": "1.0.0",
+    "author": "Ry4n",
+    "entry": "index.js"
+}
