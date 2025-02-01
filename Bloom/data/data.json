@@ -1,0 +1,154 @@
+{
+    "firstTime": false,
+    "notifiedZeroPing": false,
+    "speedDisplay": {
+        "x": 544,
+        "y": 502,
+        "scale": 1
+    },
+    "party": {
+        "x": 0,
+        "y": 0
+    },
+    "crystalPB": 0,
+    "runSplits": {
+        "x": 0,
+        "y": 0
+    },
+    "runOverview": {
+        "x": 842,
+        "y": 322.5,
+        "scale": 1
+    },
+    "dungeonWarpCooldown": {
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "lastWarp": 1738423701943
+    },
+    "chMap": {
+        "x": 0,
+        "y": 0,
+        "scale": 1,
+        "headScale": 1
+    },
+    "bridge": {
+        "regex": null,
+        "lastUpdated": null
+    },
+    "stackTracker": {
+        "x": 0,
+        "y": 0
+    },
+    "toggleSprint": {
+        "x": 0,
+        "y": 0
+    },
+    "rngMeter": {
+        "x": 801.5,
+        "y": 7.5,
+        "scale": 1.5800000000000005,
+        "data": {
+            "F1": {
+                "score": 3055,
+                "item": "§6Recombobulator 3000",
+                "needed": 10599
+            },
+            "F2": {
+                "score": 1340,
+                "item": null,
+                "needed": 0
+            },
+            "F3": {
+                "score": 1395,
+                "item": "§6Recombobulator 3000",
+                "needed": 6525
+            },
+            "F4": {
+                "score": 1819,
+                "item": "§6Recombobulator 3000",
+                "needed": 8300
+            },
+            "F5": {
+                "score": 19457,
+                "item": "§6Shadow Fury",
+                "needed": 114300
+            },
+            "F6": {
+                "score": 45706,
+                "item": "§6Giant's Sword",
+                "needed": 160020
+            },
+            "F7": {
+                "score": 31488,
+                "item": "§5Necron's Handle",
+                "needed": 274119
+            },
+            "M1": {
+                "score": 6299,
+                "item": null,
+                "needed": 0
+            },
+            "M2": {
+                "score": 2417,
+                "item": null,
+                "needed": 0
+            },
+            "M3": {
+                "score": 385,
+                "item": "§5First Master Star",
+                "needed": 11850
+            },
+            "M4": {
+                "score": 7657,
+                "item": "§5Second Master Star",
+                "needed": 10950
+            },
+            "M5": {
+                "score": 10361,
+                "item": "§5Third Master Star",
+                "needed": 48750
+            },
+            "M6": {
+                "score": 3614,
+                "item": "§5Fourth Master Star",
+                "needed": 81240
+            },
+            "M7": {
+                "score": 221441,
+                "item": null,
+                "needed": 0
+            }
+        }
+    },
+    "terminalTimer": {
+        "colors": 1309,
+        "maze": 999999,
+        "melody": 3212,
+        "numbers": 3173,
+        "redgreen": 1889,
+        "rubix": 1265,
+        "startsWith": 755
+    },
+    "cellsAlignTimer": {
+        "x": 0,
+        "y": 0,
+        "scale": 1
+    },
+    "dungeonChestProfit": {
+        "x": 579,
+        "y": 34,
+        "scale": 1.0600000000000005
+    },
+    "itemValueOverlay": {
+        "x": 0,
+        "y": 0,
+        "scale": 1
+    },
+    "wikiType": "official",
+    "betterSplits": {
+        "x": 754,
+        "y": 309,
+        "scale": 1
+    }
+}

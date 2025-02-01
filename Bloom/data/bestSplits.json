@@ -1,0 +1,51 @@
+{
+    "F5": {
+        "End Dialogue": 8351,
+        "Boss": 30066,
+        "Start Dialogue": 14136,
+        "Livid Kill": 6415
+    },
+    "F1": {
+        "First Kill": 12464,
+        "Second Kill": 1849,
+        "Boss": 24512,
+        "End Dialogue": 8370
+    },
+    "M1": {
+        "First Kill": 12722,
+        "Second Kill": 30033,
+        "Boss": 52075,
+        "End Dialogue": 9320
+    },
+    "F2": {
+        "Undeads": 26631,
+        "Scarf": 25367,
+        "Boss": 51999
+    },
+    "F3": {
+        "Phase 2": 22004,
+        "Guardians": 18493,
+        "Phase 1": 11303,
+        "Boss": 53186
+    },
+    "F4": {
+        "Dialogue": 11444,
+        "Thorn Kill": 77497,
+        "Boss": 88942
+    },
+    "F6": {
+        "Terracottas": 33888,
+        "Giants": 10788,
+        "Sadan": 13120,
+        "Boss": 57798
+    },
+    "M7": {
+        "Maxor": 26259,
+        "Storm": 53310,
+        "Terminals": 58847,
+        "Goldor": 11543,
+        "Necron": 35796,
+        "Dragons": 65535,
+        "Boss": 252004
+    }
+}
